@@ -5,7 +5,7 @@
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](erickcyberit/Vulnerability-Management-Project)**
+- **[Vulnerability Management Program Implementation](https://github.com/erickcyberit/Vulnerability-Management-Project)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/)**
 
 ## 🚨 Threat Hunting and Security Operations
