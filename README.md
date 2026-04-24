@@ -7,6 +7,12 @@
 
 - **[Vulnerability Management Program Implementation](https://github.com/erickcyberit/Vulnerability-Management-Project)**
 
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)]()**
+
+
+
 
 <hr/>
 
